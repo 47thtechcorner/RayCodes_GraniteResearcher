@@ -1,6 +1,7 @@
 # Perplexity-Lite: Local Multi-Agent Researcher
 
 Link to my full step-by-step video for the project : [https://youtu.be/CQqspuj2sNQ]
+
 A highly focused, local-first research agent that searches the web and synthesizes comprehensive reports using Ollama models.
 
 ## 🚀 Tech Stack
